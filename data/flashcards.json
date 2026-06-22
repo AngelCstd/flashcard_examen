@@ -1,0 +1,550 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "tema": "1. Introducción a SI",
+      "prioridad": "alta",
+      "front": "¿Qué es un Sistema de Información (SI)?",
+      "back": "Conjunto de componentes interrelacionados (personas, procesos, datos, hardware, software) que recolectan, procesan, almacenan y distribuyen información para apoyar la toma de decisiones, el control y la operación en una organización."
+    },
+    {
+      "id": 2,
+      "tema": "1. Introducción a SI",
+      "prioridad": "alta",
+      "front": "¿Cuáles son los 4 componentes básicos de un SI?",
+      "back": "1) Entrada (datos), 2) Procesamiento (transformación), 3) Salida (información útil), 4) Retroalimentación (control de calidad)."
+    },
+    {
+      "id": 3,
+      "tema": "1. Introducción a SI",
+      "prioridad": "alta",
+      "front": "TPS - Sistema de Procesamiento de Transacciones",
+      "back": "Procesa transacciones rutinarias del día a día (ventas, nómina, inventario). Nivel operativo. Ejemplo: caja registradora, sistema de reservas. Es la base de la cual otros SI obtienen datos."
+    },
+    {
+      "id": 4,
+      "tema": "1. Introducción a SI",
+      "prioridad": "alta",
+      "front": "DSS - Decision Support System (Sistema de Apoyo a Decisiones)",
+      "back": "Apoya decisiones semi-estructuradas con análisis de datos, modelos y simulaciones (what-if). Para gerencia media. No automatiza la decisión, la facilita."
+    },
+    {
+      "id": 5,
+      "tema": "1. Introducción a SI",
+      "prioridad": "alta",
+      "front": "ERP - Enterprise Resource Planning",
+      "back": "Integra TODOS los procesos de la empresa (RRHH, finanzas, ventas, producción, compras) en un solo sistema con base de datos compartida. Ejemplos: SAP, Oracle, Odoo."
+    },
+    {
+      "id": 6,
+      "tema": "1. Introducción a SI",
+      "prioridad": "media",
+      "front": "MIS - Management Information System",
+      "back": "Sistemas de Información Gerencial. Generan reportes resumidos para gerencia media a partir de datos de los TPS. Reportes periódicos, comparativos, de excepción."
+    },
+    {
+      "id": 7,
+      "tema": "1. Introducción a SI",
+      "prioridad": "media",
+      "front": "EIS - Executive Information System",
+      "back": "Para alta dirección. Dashboards con KPIs estratégicos, visualización de tendencias. Información muy resumida pero permite hacer drill-down."
+    },
+    {
+      "id": 8,
+      "tema": "1. Introducción a SI",
+      "prioridad": "media",
+      "front": "Business Intelligence (como tipo de SI)",
+      "back": "Conjunto de tecnologías y procesos que transforman datos en información útil para decisiones estratégicas. Incluye Data Warehouse, OLAP, Data Mining, dashboards."
+    },
+    {
+      "id": 9,
+      "tema": "1. Introducción a SI",
+      "prioridad": "media",
+      "front": "Sistemas Probabilísticos",
+      "back": "Sistemas cuyo comportamiento incluye incertidumbre. Usan modelos estadísticos (cadenas de Markov, redes bayesianas). Salidas no son determinísticas sino probabilidades."
+    },
+    {
+      "id": 10,
+      "tema": "1. Introducción a SI",
+      "prioridad": "media",
+      "front": "Sistemas de Cadena de Insumos (SCM)",
+      "back": "Supply Chain Management. Gestionan el flujo de bienes, servicios e información desde proveedores hasta clientes finales. Optimizan inventarios, logística, distribución."
+    },
+    {
+      "id": 11,
+      "tema": "1. Introducción a SI",
+      "prioridad": "alta",
+      "front": "Problemática del desarrollo de SI (factores que lo dificultan)",
+      "back": "1) Resistencia al cambio del personal, 2) Costos altos, 3) Requerimientos cambiantes, 4) Integración con sistemas legados, 5) Capacitación, 6) Seguridad, 7) Alineación con el negocio."
+    },
+    {
+      "id": 12,
+      "tema": "1. Introducción a SI",
+      "prioridad": "media",
+      "front": "Enfoque de análisis de información en SI",
+      "back": "Proceso de identificar requerimientos, modelar datos, definir flujos y especificar cómo el SI debe transformar datos en información útil para el usuario y la organización."
+    },
+    {
+      "id": 13,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "media",
+      "front": "Metodología Cascada (Waterfall)",
+      "back": "Modelo tradicional, lineal y secuencial: Análisis → Diseño → Codificación → Pruebas → Mantenimiento. Cada fase debe terminar antes de iniciar la siguiente. Rígida, poco tolerante a cambios. Buena para proyectos con requerimientos muy claros y estables."
+    },
+    {
+      "id": 14,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "media",
+      "front": "Proceso Unificado (RUP) y UML",
+      "back": "Metodología iterativa e incremental basada en UML. Tiene 4 fases: Inicio, Elaboración, Construcción, Transición. Centrada en arquitectura y casos de uso. UML es el lenguaje de modelado (diagramas de clases, secuencia, casos de uso, etc.)."
+    },
+    {
+      "id": 15,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "media",
+      "front": "XP - Programación Extrema",
+      "back": "Metodología ágil enfocada en prácticas de desarrollo. Prácticas clave: TDD (test-driven development), Pair Programming, Integración Continua, Refactoring constante, Releases pequeños y frecuentes, Cliente en sitio."
+    },
+    {
+      "id": 16,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "¿Qué es SCRUM?",
+      "back": "Marco de trabajo (framework) ágil para gestionar el desarrollo de productos complejos. Iterativo, incremental, basado en sprints (iteraciones cortas time-boxed). NO es una metodología completa, es un marco que se adapta."
+    },
+    {
+      "id": 17,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Origen de SCRUM",
+      "back": "Creado por Jeff Sutherland y Ken Schwaber en 1995. Inspirado en el artículo 'The New New Product Development Game' (Hirotaka Takeuchi y Ikujiro Nonaka, 1986), donde compararon equipos de desarrollo con un scrum de rugby (avance en conjunto)."
+    },
+    {
+      "id": 18,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Los 3 roles de SCRUM",
+      "back": "1) Product Owner (PO): define QUÉ hacer y prioridades. 2) Scrum Master (SM): facilita el proceso, elimina impedimentos. 3) Development Team: define CÓMO construir y lo construye. Auto-organizado, 3-9 personas."
+    },
+    {
+      "id": 19,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Product Owner - responsabilidades",
+      "back": "Maximizar el valor del producto. Gestiona y prioriza el Product Backlog. Es la voz del cliente/negocio. Decide qué se construye y en qué orden. NO es gerente del equipo de desarrollo."
+    },
+    {
+      "id": 20,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Scrum Master - responsabilidades",
+      "back": "Líder servidor (servant leader). Facilita los eventos, elimina impedimentos, protege al equipo, promueve las prácticas y valores Scrum. NO es jefe ni asigna tareas. Coach del equipo y de la organización."
+    },
+    {
+      "id": 21,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Development Team - responsabilidades",
+      "back": "3-9 personas. Multifuncional (tienen todas las habilidades necesarias). Auto-organizado (deciden cómo trabajar). Construyen el incremento. No hay sub-títulos: todos son 'Developers'. Responsable colectivamente."
+    },
+    {
+      "id": 22,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Los 5 eventos (ceremonias) de SCRUM",
+      "back": "1) Sprint (iteración contenedora), 2) Sprint Planning (planificación), 3) Daily Scrum (reunión diaria), 4) Sprint Review (revisión), 5) Sprint Retrospective (retrospectiva). Todos son time-boxed."
+    },
+    {
+      "id": 23,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Sprint - definición y duración",
+      "back": "Iteración de 1 a 4 semanas (típicamente 2). Contenedor de todos los demás eventos. Time-boxed: la duración NO cambia. No se modifican los objetivos a mitad del sprint. Termina con un incremento potencialmente entregable."
+    },
+    {
+      "id": 24,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Sprint Planning",
+      "back": "Reunión al inicio del sprint para: 1) definir el objetivo del sprint, 2) seleccionar items del Product Backlog, 3) planear cómo se construirán. Máximo 8 horas para sprint de 4 semanas (proporcional a duración)."
+    },
+    {
+      "id": 25,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Daily Scrum (Daily Stand-up)",
+      "back": "Reunión diaria de máximo 15 minutos, misma hora y lugar, de pie. Solo el Dev Team. Tres preguntas clásicas: ¿Qué hice ayer?, ¿Qué haré hoy?, ¿Tengo impedimentos? Sirve para sincronizar y planificar el día."
+    },
+    {
+      "id": 26,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Sprint Review",
+      "back": "Al final del sprint. El equipo muestra el incremento al Product Owner y stakeholders. Se obtiene retroalimentación y se ajusta el Product Backlog si es necesario. Máximo 4 horas (sprint de 4 semanas). NO es solo un demo, es inspección y adaptación del producto."
+    },
+    {
+      "id": 27,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Sprint Retrospective",
+      "back": "Después del Review, antes del siguiente Planning. El equipo Scrum reflexiona sobre el PROCESO (no el producto): ¿qué salió bien?, ¿qué mejorar?, ¿qué acciones tomar? Máximo 3 horas. Es la base de la mejora continua."
+    },
+    {
+      "id": 28,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Los 3 artefactos de SCRUM",
+      "back": "1) Product Backlog (lista priorizada de TODO lo del producto, vive y cambia, dueño: PO), 2) Sprint Backlog (items seleccionados para el sprint + plan, dueño: Dev Team), 3) Incremento (suma de items 'Done' al final del sprint, debe ser potencialmente entregable)."
+    },
+    {
+      "id": 29,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Los 3 pilares de SCRUM",
+      "back": "1) Transparencia (todos ven lo mismo, mismo lenguaje), 2) Inspección (revisar artefactos y progreso frecuentemente), 3) Adaptación (ajustar cuando se detecta desviación). Son la base del control empírico de procesos."
+    },
+    {
+      "id": 30,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "alta",
+      "front": "Los 5 valores de SCRUM",
+      "back": "1) Compromiso, 2) Coraje, 3) Foco, 4) Apertura, 5) Respeto. (Mnemotecnia: 'Comprometido, Corajudo, Focalizado, Abierto y Respetuoso')."
+    },
+    {
+      "id": 31,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "media",
+      "front": "Definition of Done (DoD)",
+      "back": "Acuerdo explícito del equipo sobre cuándo un item se considera 'terminado'. Incluye criterios como: código revisado, pruebas pasadas, documentado, integrado, desplegado a staging, etc. Asegura calidad uniforme."
+    },
+    {
+      "id": 32,
+      "tema": "2. Metodologías y TI",
+      "prioridad": "media",
+      "front": "Tecnologías de la Información (TI) - componentes",
+      "back": "1) Hardware (físico: servidores, PCs, dispositivos), 2) Software (programas: SO, aplicaciones), 3) Datos y bases de datos, 4) Telecomunicaciones (redes, internet), 5) Tecnología de sistemas (integración de los anteriores)."
+    },
+    {
+      "id": 33,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "¿Qué es Gobierno de TI?",
+      "back": "Conjunto de procesos, estructuras y mecanismos que aseguran que la TI soporte y extienda los objetivos del negocio. Define quién toma decisiones de TI, cómo se alinea TI con el negocio, cómo se gestiona el valor y el riesgo."
+    },
+    {
+      "id": 34,
+      "tema": "3. Gobierno TI",
+      "prioridad": "media",
+      "front": "Diferencia entre Gobierno y Gestión de TI",
+      "back": "GOBIERNO: evalúa, dirige y monitorea (estratégico, alta dirección). GESTIÓN: planifica, construye, ejecuta y monitorea (operativo, equipos de TI). Gobierno dice 'qué', gestión dice 'cómo'."
+    },
+    {
+      "id": 35,
+      "tema": "3. Gobierno TI",
+      "prioridad": "media",
+      "front": "Gestión de Servicios TI (ITSM)",
+      "back": "Conjunto de prácticas, procesos y políticas para diseñar, entregar, gestionar y mejorar los servicios de TI orientados al cliente y alineados al negocio. ITIL es el marco más popular para ITSM."
+    },
+    {
+      "id": 36,
+      "tema": "3. Gobierno TI",
+      "prioridad": "media",
+      "front": "Portafolio de Servicios TI",
+      "back": "Conjunto completo de servicios gestionados por un proveedor. Se divide en: 1) Pipeline (servicios en propuesta/desarrollo), 2) Catálogo (servicios activos disponibles), 3) Servicios retirados."
+    },
+    {
+      "id": 37,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "¿Qué es COBIT 5?",
+      "back": "Marco de referencia (framework) de ISACA para el Gobierno y Gestión de TI Empresarial. Versión 5 publicada en 2012. Integra múltiples estándares (ITIL, ISO, etc.). Sus elementos clave son los 5 principios y 7 habilitadores."
+    },
+    {
+      "id": 38,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "Los 5 principios de COBIT 5",
+      "back": "1) Satisfacer las necesidades de las partes interesadas (stakeholders), 2) Cubrir la empresa de extremo a extremo, 3) Aplicar un marco de referencia único e integrado, 4) Habilitar un enfoque holístico, 5) Separar el gobierno de la gestión."
+    },
+    {
+      "id": 39,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "COBIT 5 - Principio 1: Satisfacer las necesidades de los stakeholders",
+      "back": "TI debe crear valor a las partes interesadas a través del balance entre realización de beneficios, optimización de riesgos y optimización de recursos. Las necesidades se traducen en metas corporativas y luego en metas de TI."
+    },
+    {
+      "id": 40,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "COBIT 5 - Principio 2: Cubrir la empresa extremo a extremo",
+      "back": "COBIT no se limita al departamento de TI. Cubre todas las funciones y procesos del negocio donde la información y la tecnología son relevantes. Integra el gobierno de TI con el gobierno corporativo."
+    },
+    {
+      "id": 41,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "COBIT 5 - Principio 3: Aplicar un marco único integrado",
+      "back": "COBIT 5 se alinea con otros estándares y marcos relevantes (ITIL, ISO 27001, TOGAF, PMBOK, etc.) y los integra en un solo marco general, evitando duplicidades."
+    },
+    {
+      "id": 42,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "COBIT 5 - Principio 4: Habilitar un enfoque holístico",
+      "back": "El gobierno y gestión efectiva de TI requiere considerar 7 categorías de habilitadores que interactúan entre sí. No se puede optimizar uno aislado."
+    },
+    {
+      "id": 43,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "COBIT 5 - Principio 5: Separar gobierno de gestión",
+      "back": "GOBIERNO: Evaluar, Dirigir, Monitorear (EDM). Realizado por la junta directiva. GESTIÓN: Planificar, Construir, Ejecutar, Monitorear (PBRM en inglés: Plan/Build/Run/Monitor). Realizada por la gerencia ejecutiva."
+    },
+    {
+      "id": 44,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "Los 7 habilitadores de COBIT 5",
+      "back": "1) Principios, políticas y marcos de referencia, 2) Procesos, 3) Estructuras organizacionales, 4) Cultura, ética y comportamiento, 5) Información, 6) Servicios, infraestructura y aplicaciones, 7) Personas, habilidades y competencias."
+    },
+    {
+      "id": 45,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "¿Qué es ITIL?",
+      "back": "Information Technology Infrastructure Library. Conjunto de buenas prácticas para la gestión de servicios de TI (ITSM). Originado en UK en los 80s. Define un ciclo de vida del servicio con 5 fases."
+    },
+    {
+      "id": 46,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "Las 5 fases del ciclo de vida del servicio ITIL",
+      "back": "1) Estrategia del Servicio, 2) Diseño del Servicio, 3) Transición del Servicio, 4) Operación del Servicio, 5) Mejora Continua del Servicio (CSI). La Mejora Continua atraviesa todas las demás."
+    },
+    {
+      "id": 47,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "ITIL - Estrategia del Servicio",
+      "back": "Define QUÉ servicios ofrecer y a QUIÉN. Analiza el mercado, la demanda, define el portafolio y la propuesta de valor. Procesos clave: gestión de la estrategia, del portafolio, financiera, de la demanda, de relaciones de negocio."
+    },
+    {
+      "id": 48,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "ITIL - Diseño del Servicio",
+      "back": "Define CÓMO será el servicio. Las 4 P's: Personas, Procesos, Productos, Proveedores. Aspectos: niveles de servicio (SLA), capacidad, disponibilidad, continuidad, seguridad de la información, gestión de proveedores."
+    },
+    {
+      "id": 49,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "ITIL - Transición del Servicio",
+      "back": "Pasar el servicio diseñado a operación. Procesos: gestión del cambio, de configuración (CMDB), de liberaciones e implementación, del conocimiento (KMS), validación y pruebas."
+    },
+    {
+      "id": 50,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "ITIL - Operación del Servicio",
+      "back": "El día a día. Procesos clave: gestión de incidentes, problemas, eventos, peticiones, accesos. Funciones: Service Desk, gestión técnica, de operaciones, de aplicaciones."
+    },
+    {
+      "id": 51,
+      "tema": "3. Gobierno TI",
+      "prioridad": "alta",
+      "front": "ITIL - Mejora Continua del Servicio (CSI)",
+      "back": "Mejora todas las fases anteriores. Usa el modelo PDCA (Plan-Do-Check-Act) y los 7 pasos de mejora: 1) identificar estrategia, 2) definir qué medir, 3) recolectar datos, 4) procesar, 5) analizar, 6) presentar, 7) implementar mejora."
+    },
+    {
+      "id": 52,
+      "tema": "3. Gobierno TI",
+      "prioridad": "media",
+      "front": "COBIT vs ITIL - diferencia clave",
+      "back": "COBIT: marco de GOBIERNO (qué hacer, alto nivel, control y cumplimiento). ITIL: marco de GESTIÓN OPERATIVA (cómo hacerlo, día a día, gestión de servicios). Son complementarios, no compiten."
+    },
+    {
+      "id": 53,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "¿Qué es Business Intelligence (BI)?",
+      "back": "Conjunto de tecnologías, aplicaciones, procesos y prácticas para recolectar, integrar, analizar y presentar información del negocio con el objetivo de apoyar la toma de decisiones estratégicas, tácticas y operativas."
+    },
+    {
+      "id": 54,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "Arquitectura típica de BI",
+      "back": "Fuentes de datos (OLTP, archivos, externos) → Procesos ETL → Data Warehouse / Data Marts → Herramientas de análisis (OLAP, reportes, dashboards, Data Mining) → Usuarios finales."
+    },
+    {
+      "id": 55,
+      "tema": "4. Business Intelligence",
+      "prioridad": "media",
+      "front": "Funciones y roles en proyectos BI",
+      "back": "Sponsor (patrocinador ejecutivo), Arquitecto BI, Desarrollador ETL, Modelador de datos, Administrador del DW, Analista de datos / BI, Usuario final / consumidor de reportes."
+    },
+    {
+      "id": 56,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "¿Qué es un KPI?",
+      "back": "Key Performance Indicator (Indicador Clave de Desempeño). Métrica cuantificable que mide qué tan bien se está logrando un objetivo de negocio. Características: SMART (específico, medible, alcanzable, relevante, temporal). Ejemplos: tasa de conversión, NPS, ROI, tiempo de respuesta."
+    },
+    {
+      "id": 57,
+      "tema": "4. Business Intelligence",
+      "prioridad": "media",
+      "front": "Tipos de consultas en sistemas BI",
+      "back": "1) Reportes estándar (predefinidos, periódicos), 2) Reportes ad-hoc (a demanda), 3) Consultas OLAP (multidimensionales: drill-down, drill-up, slice, dice, pivot), 4) Alertas (umbrales), 5) Visualización (dashboards), 6) Data mining / predictivo."
+    },
+    {
+      "id": 58,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "OLTP vs OLAP",
+      "back": "OLTP (Online Transaction Processing): operativo, transacciones rápidas, normalizado, pocos registros por consulta, actualizaciones constantes. Ej: registrar una venta. OLAP (Online Analytical Processing): analítico, consultas complejas, desnormalizado, agregaciones de millones de registros, mayormente lectura. Ej: ventas por región/mes/producto."
+    },
+    {
+      "id": 59,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "¿Qué es un Data Warehouse?",
+      "back": "Repositorio centralizado de datos integrados de múltiples fuentes, organizado para soportar análisis y toma de decisiones. Almacena datos históricos. Es la base del BI."
+    },
+    {
+      "id": 60,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "Las 4 características de un Data Warehouse (Bill Inmon)",
+      "back": "1) Orientado a TEMAS (no a procesos, sino a sujetos del negocio: clientes, productos, ventas), 2) INTEGRADO (datos consolidados de múltiples fuentes con formato uniforme), 3) NO VOLÁTIL (no se modifica, solo se lee y se agregan datos), 4) VARIABLE EN EL TIEMPO (mantiene historia con timestamps)."
+    },
+    {
+      "id": 61,
+      "tema": "4. Business Intelligence",
+      "prioridad": "media",
+      "front": "Data Mart",
+      "back": "Subconjunto del Data Warehouse, especializado en un área de negocio (ventas, marketing, finanzas, RRHH). Más pequeño, enfocado, fácil de implementar. Puede ser dependiente (deriva del DW) o independiente."
+    },
+    {
+      "id": 62,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "¿Qué es ETL?",
+      "back": "Extract, Transform, Load. Proceso de: 1) EXTRACT: extraer datos de fuentes (BD operativas, archivos, APIs), 2) TRANSFORM: limpiar, validar, unificar formatos, calcular, agregar, 3) LOAD: cargar al Data Warehouse. Es típicamente la parte más cara del proyecto BI (60-80% del esfuerzo)."
+    },
+    {
+      "id": 63,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "Limpieza de datos (data cleansing)",
+      "back": "Parte de la fase Transform. Incluye: eliminar duplicados, corregir errores tipográficos, manejar valores nulos o faltantes, estandarizar formatos (fechas, monedas, unidades), validar contra reglas de negocio, conciliar valores inconsistentes entre fuentes."
+    },
+    {
+      "id": 64,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "Modelado dimensional",
+      "back": "Técnica de diseño de bases de datos optimizada para análisis (no para transacciones). Propuesta por Ralph Kimball. Usa Tablas de Hechos (medidas numéricas) + Tablas de Dimensiones (contexto descriptivo). Resulta en esquemas estrella o copo de nieve."
+    },
+    {
+      "id": 65,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "Esquema Estrella (Star Schema)",
+      "back": "Tabla de hechos al CENTRO, rodeada de tablas de dimensiones DESNORMALIZADAS (todas las jerarquías en una sola tabla por dimensión). Ventajas: simple, consultas rápidas. Desventajas: redundancia de datos."
+    },
+    {
+      "id": 66,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "Esquema Copo de Nieve (Snowflake)",
+      "back": "Variante del estrella donde las dimensiones están NORMALIZADAS (cada jerarquía se separa en varias tablas relacionadas). Ventajas: menos redundancia, ahorro espacio. Desventajas: más complejo, más joins, más lento."
+    },
+    {
+      "id": 67,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "Tabla de Hechos (Fact Table)",
+      "back": "Contiene las MÉTRICAS NUMÉRICAS del negocio (ventas en pesos, cantidad vendida, costo, utilidad) y las FOREIGN KEYS hacia las tablas de dimensiones. Es la tabla central del modelo dimensional y suele tener millones de filas."
+    },
+    {
+      "id": 68,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "Tabla de Dimensión",
+      "back": "Contiene ATRIBUTOS DESCRIPTIVOS que dan contexto a los hechos. Ejemplos típicos: Tiempo (fecha, mes, trimestre, año), Producto (nombre, categoría, marca), Cliente (nombre, ciudad, segmento), Ubicación (tienda, ciudad, país)."
+    },
+    {
+      "id": 69,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "¿Qué es Data Mining?",
+      "back": "Proceso de descubrir patrones, relaciones y conocimiento útil oculto en grandes volúmenes de datos mediante técnicas estadísticas, algorítmicas y de machine learning. También llamado 'descubrimiento de conocimiento en bases de datos' (KDD)."
+    },
+    {
+      "id": 70,
+      "tema": "4. Business Intelligence",
+      "prioridad": "alta",
+      "front": "Principales modelos / tareas de Data Mining",
+      "back": "1) CLASIFICACIÓN (asignar a categorías predefinidas, ej: spam o no), 2) CLUSTERING / Agrupamiento (agrupar similares sin categorías predefinidas), 3) REGRESIÓN (predecir valores numéricos), 4) ASOCIACIÓN (reglas tipo 'si compra X entonces compra Y'), 5) SERIES DE TIEMPO (predecir basado en historia), 6) DETECCIÓN DE ANOMALÍAS."
+    },
+    {
+      "id": 71,
+      "tema": "4. Business Intelligence",
+      "prioridad": "media",
+      "front": "Datos estructurados vs no estructurados",
+      "back": "ESTRUCTURADOS: encajan en tablas (filas y columnas), tienen esquema fijo. Ej: registros de BD. SEMI-ESTRUCTURADOS: tienen estructura pero flexible, ej: JSON, XML. NO ESTRUCTURADOS: no encajan en tablas: texto libre, imágenes, video, audio, redes sociales. Requieren técnicas especiales (NLP, visión computacional)."
+    },
+    {
+      "id": 72,
+      "tema": "5. Inteligencia Social",
+      "prioridad": "alta",
+      "front": "¿Qué es Inteligencia Social?",
+      "back": "Capacidad de recopilar, analizar e interpretar datos de redes sociales y fuentes públicas (sociales) para generar insights estratégicos del negocio: comportamiento del consumidor, sentimiento de marca, tendencias del mercado, influencers, comunidades."
+    },
+    {
+      "id": 73,
+      "tema": "5. Inteligencia Social",
+      "prioridad": "media",
+      "front": "Inclusión de Inteligencia Social en estrategia BI",
+      "back": "Las redes sociales aportan datos NO ESTRUCTURADOS que complementan al BI tradicional (estructurado interno). Aportan: sentimiento del cliente en tiempo real, voz del consumidor, identificación de tendencias, alertas tempranas, análisis competitivo."
+    },
+    {
+      "id": 74,
+      "tema": "5. Inteligencia Social",
+      "prioridad": "media",
+      "front": "Análisis de redes sociales para organizaciones",
+      "back": "Permite identificar: influencers clave, comunidades y subgrupos, sentimiento (sentiment analysis: positivo/negativo/neutro), engagement (interacciones), alcance, share of voice (vs competencia), tendencias y temas emergentes."
+    },
+    {
+      "id": 75,
+      "tema": "5. Inteligencia Social",
+      "prioridad": "alta",
+      "front": "Open Data y Transparencia",
+      "back": "Datos públicos disponibles libremente, sin restricciones técnicas ni legales, en formatos abiertos y reutilizables. Promueve la transparencia gubernamental, rendición de cuentas (accountability), y permite a ciudadanos/empresas crear valor. Ejemplos: datos.gob.mx, data.gov."
+    },
+    {
+      "id": 76,
+      "tema": "5. Inteligencia Social",
+      "prioridad": "alta",
+      "front": "Arquitectura API REST",
+      "back": "REpresentational State Transfer. Estilo arquitectónico para servicios web. Características: sin estado (stateless), basado en recursos identificados por URLs, usa los métodos HTTP, formatos típicos: JSON/XML. Es el estándar de facto para exponer Open Data."
+    },
+    {
+      "id": 77,
+      "tema": "5. Inteligencia Social",
+      "prioridad": "alta",
+      "front": "Métodos HTTP en REST",
+      "back": "GET (leer/consultar), POST (crear nuevo recurso), PUT (actualizar completo / reemplazar), PATCH (actualizar parcial), DELETE (eliminar). Los códigos de respuesta también importan: 2xx éxito, 4xx error del cliente, 5xx error del servidor."
+    },
+    {
+      "id": 78,
+      "tema": "5. Inteligencia Social",
+      "prioridad": "media",
+      "front": "Principios REST (las restricciones)",
+      "back": "1) Cliente-Servidor (separación), 2) Sin estado / Stateless (cada petición es independiente), 3) Cacheable (respuestas pueden cachearse), 4) Interfaz uniforme (estándar consistente), 5) Sistema por capas (cliente no sabe si habla con servidor final o intermediario), 6) Código bajo demanda (opcional)."
+    }
+  ]
+}
