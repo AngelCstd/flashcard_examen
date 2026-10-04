@@ -545,6 +545,811 @@
       "prioridad": "media",
       "front": "Principios REST (las restricciones)",
       "back": "1) Cliente-Servidor (separación), 2) Sin estado / Stateless (cada petición es independiente), 3) Cacheable (respuestas pueden cachearse), 4) Interfaz uniforme (estándar consistente), 5) Sistema por capas (cliente no sabe si habla con servidor final o intermediario), 6) Código bajo demanda (opcional)."
+    },
+    {
+      "id": 79,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "alta",
+      "front": "¿Qué es el autoconocimiento y por qué es la base de las habilidades directivas?",
+      "back": "Capacidad de identificar con claridad tus fortalezas, debilidades, valores, emociones, motivaciones y estilo de conducta. Es la base para autorregularte, tomar mejores decisiones y liderar a otros. Herramientas: FODA personal, Ventana de Johari, retroalimentación 360°."
+    },
+    {
+      "id": 80,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "media",
+      "front": "Ventana de Johari",
+      "back": "Modelo de Luft e Ingham con 4 áreas según lo que tú y los demás saben de ti: abierta (la conocen ambos), ciega (otros la ven, tú no), oculta (tú la conoces, otros no) y desconocida (nadie la conoce). El área abierta se amplía con retroalimentación y autorrevelación."
+    },
+    {
+      "id": 81,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "alta",
+      "front": "Autoestima",
+      "back": "Valoración y aprecio que una persona tiene de sí misma. Una autoestima sana favorece la confianza, la asertividad, la toma de decisiones y el liderazgo. Una baja autoestima genera inseguridad, dependencia de la aprobación externa y miedo al error."
+    },
+    {
+      "id": 82,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "media",
+      "front": "Autoestima: ¿qué lugar ocupa en la pirámide de Maslow?",
+      "back": "Pertenece al nivel de las necesidades de estima (reconocimiento, confianza, respeto, logro): el cuarto nivel, arriba de las sociales y debajo de la autorrealización."
+    },
+    {
+      "id": 83,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "alta",
+      "front": "Adaptabilidad",
+      "back": "Capacidad de ajustar pensamientos, conductas y estrategias ante cambios, imprevistos o nuevos contextos sin perder eficacia. Implica flexibilidad, apertura al aprendizaje, tolerancia a la incertidumbre y actitud proactiva ante el cambio."
+    },
+    {
+      "id": 84,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "alta",
+      "front": "Inteligencia emocional: definición y 5 componentes (Goleman)",
+      "back": "Capacidad de reconocer, comprender y gestionar las propias emociones y las de los demás. Componentes: 1) Autoconciencia, 2) Autorregulación, 3) Motivación, 4) Empatía, 5) Habilidades sociales. (Salovey y Mayer acuñaron el término en 1990; Goleman lo popularizó en 1995.)"
+    },
+    {
+      "id": 85,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "media",
+      "front": "Inteligencia emocional: componentes personales vs. sociales",
+      "back": "Personales (contigo mismo): autoconciencia, autorregulación y motivación. Sociales (con los demás): empatía y habilidades sociales."
+    },
+    {
+      "id": 86,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "alta",
+      "front": "Estrés: eustrés vs. distrés",
+      "back": "Estrés es la respuesta del organismo ante demandas o amenazas (concepto desarrollado por Hans Selye). Eustrés: positivo, motiva y mejora el rendimiento. Distrés: negativo, excesivo o prolongado; deteriora la salud y el desempeño."
+    },
+    {
+      "id": 87,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "media",
+      "front": "Síndrome general de adaptación (Selye)",
+      "back": "Tres fases ante el estrés prolongado: 1) Alarma, 2) Resistencia, 3) Agotamiento."
+    },
+    {
+      "id": 88,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "alta",
+      "front": "Estrategias para gestionar el estrés",
+      "back": "Gestión del tiempo y priorización, delegar, poner límites, técnicas de relajación y respiración, ejercicio, buen sueño y alimentación, pausas, reestructuración cognitiva (cambiar la interpretación de la situación) y buscar apoyo social o profesional. Pueden estar centradas en el problema o en la emoción."
+    },
+    {
+      "id": 89,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "alta",
+      "front": "Pensamiento crítico",
+      "back": "Análisis y evaluación objetiva de la información, los argumentos y la evidencia para formar juicios fundamentados antes de decidir o actuar. Implica cuestionar supuestos, detectar sesgos y falacias, contrastar fuentes, inferir conclusiones lógicas y considerar perspectivas alternativas."
+    },
+    {
+      "id": 90,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "media",
+      "front": "Sesgos cognitivos que afectan las decisiones directivas",
+      "back": "Sesgo de confirmación (buscar solo información que confirma lo que ya crees), anclaje (depender demasiado de la primera información recibida), exceso de confianza y pensamiento de grupo. El pensamiento crítico ayuda a detectarlos."
+    },
+    {
+      "id": 91,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "alta",
+      "front": "Pasos de la resolución de problemas",
+      "back": "1) Identificar y definir el problema, 2) analizar sus causas, 3) generar alternativas, 4) evaluar las alternativas y decidir, 5) implementar la solución, 6) dar seguimiento y evaluar resultados."
+    },
+    {
+      "id": 92,
+      "tema": "HD 1. Habilidades personales",
+      "prioridad": "media",
+      "front": "Herramientas para resolver problemas",
+      "back": "Diagrama de Ishikawa (causa-efecto o espina de pescado), 5 porqués, diagrama de Pareto (80/20), lluvia de ideas, árbol de decisión y matriz de decisión ponderada."
+    },
+    {
+      "id": 93,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Liderazgo: definición",
+      "back": "Capacidad de influir en otras personas, inspirarlas y orientarlas para que trabajen voluntariamente hacia metas comunes. Se basa en la influencia, no solo en la autoridad formal."
+    },
+    {
+      "id": 94,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Líder vs. gerente (jefe)",
+      "back": "Gerente: planea, organiza y controla; busca estabilidad y eficiencia ('hacer bien las cosas'); su poder viene del puesto. Líder: define una visión, inspira e influye, impulsa el cambio ('hacer lo correcto'); su poder viene de la influencia y la confianza."
+    },
+    {
+      "id": 95,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Estilos de liderazgo clásicos (Lewin)",
+      "back": "Kurt Lewin (1939) identificó tres: autocrático, democrático y laissez-faire (liberal)."
+    },
+    {
+      "id": 96,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Liderazgo autocrático",
+      "back": "El líder decide solo y controla de cerca; poca participación del equipo. Ventajas: rapidez y claridad; útil en crisis o con personal sin experiencia. Desventajas: baja motivación y creatividad, dependencia del líder y clima de tensión."
+    },
+    {
+      "id": 97,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Liderazgo democrático (participativo)",
+      "back": "El líder consulta e involucra al equipo en las decisiones. Ventajas: más compromiso, creatividad y satisfacción. Desventajas: decisiones más lentas; puede generar conflicto si no se maneja bien."
+    },
+    {
+      "id": 98,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Liderazgo laissez-faire (liberal)",
+      "back": "Mínima intervención del líder; el equipo tiene plena autonomía. Funciona con equipos muy capacitados y motivados; con otros puede generar falta de dirección, confusión y bajo desempeño."
+    },
+    {
+      "id": 99,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Liderazgo transformacional",
+      "back": "Inspira a los seguidores con una visión, eleva su motivación y los lleva a ir más allá del interés personal. Cuatro componentes ('4 I'): influencia idealizada (carisma), motivación inspiradora, estimulación intelectual y consideración individualizada. Asociado a Burns y Bass."
+    },
+    {
+      "id": 100,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Liderazgo transaccional",
+      "back": "Basado en el intercambio: recompensas por cumplir metas y sanciones por incumplir. Se enfoca en estructura, supervisión y cumplimiento de resultados a corto plazo. Contraste: el transformacional busca cambio e inspiración."
+    },
+    {
+      "id": 101,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "media",
+      "front": "Liderazgo situacional (Hersey y Blanchard)",
+      "back": "No existe un único estilo ideal: el líder adapta su estilo al nivel de madurez o desarrollo del seguidor. Estilos: dirigir (alta tarea, baja relación), persuadir/entrenar, participar/apoyar y delegar (baja tarea, baja relación)."
+    },
+    {
+      "id": 102,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "media",
+      "front": "Otros estilos de liderazgo",
+      "back": "De servicio (Greenleaf): el líder sirve primero al equipo y prioriza su desarrollo. Carismático: influye por su personalidad e inspiración. Burocrático: se apega a reglas y procedimientos. Coaching: desarrolla las capacidades de las personas."
+    },
+    {
+      "id": 103,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Liderazgo centrado en principios (Covey)",
+      "back": "El líder se guía por principios universales y atemporales (integridad, justicia, honestidad, dignidad, servicio) y no solo por reglas o resultados. Covey lo plantea en cuatro niveles: personal, interpersonal, gerencial y organizacional."
+    },
+    {
+      "id": 104,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Motivación: pirámide de Maslow",
+      "back": "Cinco niveles: 1) fisiológicas, 2) seguridad, 3) sociales/pertenencia, 4) estima, 5) autorrealización. Se busca satisfacer primero las inferiores; una necesidad satisfecha deja de motivar."
+    },
+    {
+      "id": 105,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Motivación: teoría de los dos factores (Herzberg)",
+      "back": "Factores higiénicos (salario, condiciones de trabajo, supervisión, políticas): evitan la insatisfacción pero no motivan. Factores motivadores (logro, reconocimiento, responsabilidad, crecimiento, el trabajo mismo): generan satisfacción y motivación."
+    },
+    {
+      "id": 106,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "media",
+      "front": "Motivación: McClelland y McGregor",
+      "back": "McClelland: necesidades de logro, afiliación y poder. McGregor: Teoría X (las personas evitan el trabajo y necesitan control) y Teoría Y (las personas buscan responsabilidad y se autodirigen)."
+    },
+    {
+      "id": 107,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "media",
+      "front": "Estrategias prácticas del líder para motivar al equipo",
+      "back": "Reconocer logros, dar retroalimentación, fijar metas claras y retadoras, dar autonomía, ofrecer oportunidades de desarrollo, crear un ambiente de confianza, compensar de forma justa y comunicar el propósito del trabajo."
+    },
+    {
+      "id": 108,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Empoderamiento (empowerment)",
+      "back": "Dar al equipo autoridad, autonomía, recursos, información y confianza para tomar decisiones y asumir la responsabilidad de su trabajo. Requiere capacitación y objetivos claros. Efectos: mayor compromiso, iniciativa, innovación y retención del talento."
+    },
+    {
+      "id": 109,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Entornos dinámicos: concepto VUCA",
+      "back": "Volatilidad, incertidumbre (Uncertainty), complejidad y ambigüedad. Liderar en estos entornos exige adaptabilidad, visión clara, decisiones ágiles con información incompleta, aprendizaje continuo y equipos flexibles."
+    },
+    {
+      "id": 110,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Cambio organizacional: modelo de Lewin",
+      "back": "Tres etapas: 1) Descongelar (generar conciencia de la necesidad de cambio), 2) Cambiar (implementar nuevas conductas o procesos), 3) Recongelar (consolidar el cambio en la cultura)."
+    },
+    {
+      "id": 111,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Los 8 pasos de Kotter para liderar el cambio",
+      "back": "1) Crear sentido de urgencia, 2) formar una coalición directiva, 3) desarrollar visión y estrategia, 4) comunicar la visión, 5) eliminar obstáculos y facilitar la acción, 6) generar victorias a corto plazo, 7) consolidar mejoras y seguir cambiando, 8) anclar los cambios en la cultura."
+    },
+    {
+      "id": 112,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Resistencia al cambio: causas y cómo manejarla",
+      "back": "Causas: miedo a lo desconocido, pérdida de control o estatus, falta de información, inercia y desconfianza. Estrategias: explicar el porqué del cambio, involucrar a las personas, capacitar, dar apoyo, mostrar victorias tempranas y dar el ejemplo."
+    },
+    {
+      "id": 113,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Tipos de conflicto en las organizaciones",
+      "back": "Por nivel: intrapersonal (dentro de uno mismo), interpersonal (entre dos personas), intragrupal (dentro de un equipo) e intergrupal (entre grupos o áreas). Por origen: de tarea, de relación y de proceso."
+    },
+    {
+      "id": 114,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Modelo Thomas-Kilmann: 5 estilos ante el conflicto",
+      "back": "Según asertividad y cooperación: competir (alta asertividad, baja cooperación), colaborar (alta-alta), transigir o comprometerse (punto medio), evitar (baja-baja) y acomodar (baja asertividad, alta cooperación). Colaborar busca el ganar-ganar."
+    },
+    {
+      "id": 115,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Pasos para resolver conflictos en equipos",
+      "back": "1) Identificar y definir el conflicto, 2) escuchar a todas las partes, 3) separar a las personas del problema y buscar los intereses de fondo, 4) generar opciones, 5) acordar una solución aceptable para todos, 6) dar seguimiento. Si hace falta, recurrir a la mediación de un tercero."
+    },
+    {
+      "id": 116,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "media",
+      "front": "Seis sombreros para pensar (De Bono)",
+      "back": "Técnica para analizar una situación desde distintas perspectivas y evitar choques: blanco (datos), rojo (emociones), negro (riesgos y cautela), amarillo (beneficios), verde (creatividad) y azul (control del proceso)."
+    },
+    {
+      "id": 117,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Delegación",
+      "back": "Transferir a un colaborador la autoridad y la responsabilidad para realizar una tarea, conservando el líder la rendición de cuentas final. Libera tiempo para actividades estratégicas y desarrolla al equipo."
+    },
+    {
+      "id": 118,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Pasos para delegar bien",
+      "back": "1) Elegir la tarea, 2) elegir a la persona adecuada, 3) explicar objetivo, resultado esperado y plazos, 4) dar autoridad y recursos, 5) acordar puntos de control, 6) dar seguimiento sin microgestionar y retroalimentar."
+    },
+    {
+      "id": 119,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "media",
+      "front": "¿Qué no conviene delegar? Errores comunes al delegar",
+      "back": "No delegar: decisiones estratégicas críticas, asuntos confidenciales, evaluaciones de desempeño y sanciones, ni la responsabilidad final. Errores: delegar sin autoridad ni recursos, microgestionar, no dar seguimiento y delegar solo lo desagradable."
+    },
+    {
+      "id": 120,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "alta",
+      "front": "Coaching",
+      "back": "Proceso de acompañamiento que busca desarrollar el potencial y el desempeño de una persona mediante preguntas poderosas, escucha y retroalimentación, ayudándola a encontrar sus propias soluciones. El coach facilita; no da las respuestas."
+    },
+    {
+      "id": 121,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "media",
+      "front": "Modelo GROW de coaching",
+      "back": "Goal (meta), Reality (realidad actual), Options (opciones) y Will o Way forward (plan de acción y compromiso)."
+    },
+    {
+      "id": 122,
+      "tema": "HD 2. Liderazgo",
+      "prioridad": "media",
+      "front": "Coaching vs. mentoring vs. consultoría",
+      "back": "Coaching: facilita con preguntas, enfocado en el desempeño, a corto o mediano plazo. Mentoring: un mentor con más experiencia comparte su conocimiento, a largo plazo y orientado a la carrera. Consultoría: un experto diagnostica y propone soluciones."
+    },
+    {
+      "id": 123,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "alta",
+      "front": "Elementos del proceso de comunicación",
+      "back": "Emisor, mensaje, código, canal, receptor, retroalimentación (feedback), contexto y ruido o barreras. La comunicación es efectiva cuando el receptor interpreta el mensaje como el emisor lo pretendía."
+    },
+    {
+      "id": 124,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "media",
+      "front": "Barreras de la comunicación",
+      "back": "Físicas (ruido, distancia), semánticas (jerga, ambigüedad), psicológicas (prejuicios, emociones, estrés), culturales o de idioma, organizacionales (jerarquía, exceso de información) y fisiológicas."
+    },
+    {
+      "id": 125,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "alta",
+      "front": "Escucha activa",
+      "back": "Prestar atención plena al interlocutor para comprender el mensaje completo (palabras, emociones e intenciones) y demostrarlo. Técnicas: contacto visual, no interrumpir, parafrasear, preguntar para aclarar, resumir, asentir y empatizar. Evitar juzgar o preparar la respuesta mientras el otro habla."
+    },
+    {
+      "id": 126,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "media",
+      "front": "Niveles de escucha",
+      "back": "Ignorar, escucha fingida, escucha selectiva, escucha atenta y escucha empática (la más alta: busca comprender desde el punto de vista del otro)."
+    },
+    {
+      "id": 127,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "alta",
+      "front": "Retroalimentación constructiva: características",
+      "back": "Específica, basada en hechos y conductas observables (no en la persona), oportuna, orientada a la mejora, equilibrada (reconoce lo positivo), respetuosa y bidireccional. Evita generalizaciones como 'siempre' o 'nunca'."
+    },
+    {
+      "id": 128,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "media",
+      "front": "Modelos para dar retroalimentación",
+      "back": "SBI: Situación – Conducta – Impacto. Sándwich: elogio – área de mejora – cierre positivo. Para recibirla: escuchar sin defenderse, agradecer, preguntar y aclarar."
+    },
+    {
+      "id": 129,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "alta",
+      "front": "Comunicación verbal vs. no verbal",
+      "back": "Verbal: uso de palabras (orales o escritas). No verbal: todo lo que comunicamos sin palabras (gestos, postura, mirada, expresión facial, tono de voz, distancia, apariencia). Lo no verbal refuerza o contradice lo verbal; ante una contradicción, solemos creer más al lenguaje no verbal."
+    },
+    {
+      "id": 130,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "alta",
+      "front": "Componentes de la comunicación no verbal",
+      "back": "Kinésica (gestos, postura, movimientos), proxémica (uso del espacio y las distancias), paralenguaje (tono, volumen, ritmo, pausas), oculésica (contacto visual), háptica (contacto físico) y apariencia personal."
+    },
+    {
+      "id": 131,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "media",
+      "front": "Regla de Mehrabian (7-38-55)",
+      "back": "En mensajes sobre sentimientos o actitudes con incongruencia: 7% palabras, 38% tono de voz y 55% lenguaje corporal. Aplica solo en ese contexto específico; no significa que las palabras valgan 7% en toda comunicación."
+    },
+    {
+      "id": 132,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "media",
+      "front": "Estilos de comunicación: pasivo, agresivo y asertivo",
+      "back": "Pasivo: evita expresar sus necesidades. Agresivo: impone sus ideas sin respeto. Asertivo: expresa ideas y sentimientos con claridad y respeto, defendiendo sus derechos sin dañar los de los demás."
+    },
+    {
+      "id": 133,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "alta",
+      "front": "Manejo de reuniones: antes, durante y después",
+      "back": "Antes: definir objetivo, agenda, participantes, hora y lugar, y enviar la convocatoria. Durante: iniciar puntual, seguir la agenda, moderar y dar la palabra, controlar el tiempo y resumir acuerdos. Después: enviar la minuta con acuerdos, responsables y fechas, y dar seguimiento."
+    },
+    {
+      "id": 134,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "media",
+      "front": "Minuta de reunión",
+      "back": "Documento breve que registra lo tratado: fecha, asistentes, temas, acuerdos, responsables y fechas compromiso. Sirve para dar seguimiento y evitar malentendidos."
+    },
+    {
+      "id": 135,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "alta",
+      "front": "Elementos de una presentación efectiva",
+      "back": "Conocer a la audiencia, definir el objetivo, estructura clara (introducción, desarrollo y cierre), mensaje claro, apoyos visuales simples, manejo del tiempo, práctica previa, contacto visual, voz y lenguaje corporal seguros, y un cierre con conclusión o llamado a la acción."
+    },
+    {
+      "id": 136,
+      "tema": "HD 3. Comunicación efectiva",
+      "prioridad": "media",
+      "front": "Tipos de comunicación en la organización",
+      "back": "Formal (por canales oficiales) e informal (redes informales, rumores). Según su dirección: descendente (jefe a equipo), ascendente (equipo a jefe) y horizontal (entre pares)."
+    },
+    {
+      "id": 137,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "Negociación: definición",
+      "back": "Proceso de comunicación y toma de decisiones en el que dos o más partes, con intereses comunes y diferentes, dialogan para llegar a un acuerdo aceptable para todas."
+    },
+    {
+      "id": 138,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "Negociación distributiva",
+      "back": "Ganar-perder (suma cero): hay un recurso fijo ('pastel fijo') que se reparte; lo que gana una parte lo pierde la otra. Se centra en posiciones, es competitiva y de corto plazo. Ejemplo: regatear el precio de un coche."
+    },
+    {
+      "id": 139,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "Negociación integrativa",
+      "back": "Ganar-ganar: busca ampliar el 'pastel' creando valor mediante intercambio de información y atendiendo los intereses de ambas partes. Requiere confianza y creatividad. Favorece las relaciones a largo plazo."
+    },
+    {
+      "id": 140,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "Negociación colaborativa",
+      "back": "Enfoque cooperativo en el que las partes trabajan juntas, como socias, para resolver un problema común y construir una solución conjunta, priorizando la relación y los intereses compartidos. Se asocia con el enfoque integrativo (ganar-ganar)."
+    },
+    {
+      "id": 141,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "media",
+      "front": "Otros enfoques o estilos de negociación",
+      "back": "Competitivo (ganar-perder), acomodaticio (ceder para preservar la relación), evasivo (evitar negociar), transigente (cada parte cede un poco) y colaborador (ganar-ganar)."
+    },
+    {
+      "id": 142,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "Negociación basada en principios (Fisher y Ury)",
+      "back": "Método de Harvard ('Obtenga el sí'): 1) separar a las personas del problema, 2) concentrarse en los intereses y no en las posiciones, 3) generar opciones de beneficio mutuo, 4) usar criterios objetivos."
+    },
+    {
+      "id": 143,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "Posición vs. interés",
+      "back": "Posición: lo que una parte dice que quiere. Interés: la necesidad o motivo de fondo. Ejemplo: dos hermanas quieren la misma naranja (posición); una quiere el jugo y la otra la cáscara (intereses), así que ambas pueden ganar."
+    },
+    {
+      "id": 144,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "BATNA / MAAN",
+      "back": "Mejor Alternativa a un Acuerdo Negociado: la mejor opción que tienes si no llegas a un acuerdo. Define tu poder de negociación y tu punto de retirada. Conviene estimar también la de la contraparte."
+    },
+    {
+      "id": 145,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "media",
+      "front": "Punto de reserva y ZOPA",
+      "back": "Punto de reserva: el peor resultado que aceptarías. ZOPA (zona de posible acuerdo): el rango donde se traslapan los puntos de reserva de ambas partes; si no hay traslape, no hay acuerdo posible."
+    },
+    {
+      "id": 146,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "Importancia de la negociación en lo profesional y personal",
+      "back": "Permite resolver conflictos, cerrar contratos y alianzas, obtener recursos, acordar salarios y condiciones, coordinar proyectos y mantener relaciones sanas, tanto en el trabajo como en la familia y la vida diaria."
+    },
+    {
+      "id": 147,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "Habilidades necesarias para negociar",
+      "back": "Comunicación clara, escucha activa, empatía, inteligencia emocional y autocontrol, pensamiento analítico y creativo, persuasión, paciencia, flexibilidad, ética y manejo de la presión."
+    },
+    {
+      "id": 148,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "Etapa 1 de la negociación: Preparación",
+      "back": "Definir objetivos, analizar tus intereses y los de la contraparte, identificar alternativas (BATNA), fijar tu punto de reserva, reunir información, anticipar argumentos y concesiones, y definir estrategia y roles."
+    },
+    {
+      "id": 149,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "Etapa 2 de la negociación: Desarrollo",
+      "back": "Intercambio de información, exploración de intereses, propuestas y contrapropuestas, aplicación de estrategias y tácticas, y concesiones recíprocas hasta acercar posturas."
+    },
+    {
+      "id": 150,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "Etapa 3 de la negociación: Cierre",
+      "back": "Confirmar y resumir el acuerdo, formalizarlo por escrito, aclarar compromisos, responsables, plazos y consecuencias, y cerrar de forma que se preserve la relación."
+    },
+    {
+      "id": 151,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "Etapa 4 de la negociación: Seguimiento",
+      "back": "Evaluar resultados y cumplimiento de lo acordado, verificar que ambas partes cumplan, corregir desviaciones, mantener la relación y documentar aprendizajes para futuras negociaciones."
+    },
+    {
+      "id": 152,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "alta",
+      "front": "Tácticas de negociación comunes",
+      "back": "Anclaje (la primera oferta fija el rango), concesiones graduales y recíprocas, ofertas en paquete, uso del silencio, tiempo límite, 'buen policía / mal policía' y el 'último pedido' (nibbling). Deben usarse con ética: el engaño daña la confianza."
+    },
+    {
+      "id": 153,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "media",
+      "front": "Estrategias de negociación: cuándo usar cada una",
+      "back": "Competir, colaborar, ceder, evitar o transigir. Se elige según la importancia del tema, la importancia de la relación, el poder relativo de las partes y el tiempo disponible."
+    },
+    {
+      "id": 154,
+      "tema": "HD 4. Negociación efectiva",
+      "prioridad": "media",
+      "front": "Errores comunes al negociar",
+      "back": "No prepararse, aferrarse a una posición, no conocer su BATNA, hacer concesiones unilaterales, dejarse llevar por las emociones, no escuchar, mentir y no documentar los acuerdos."
+    },
+    {
+      "id": 155,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "alta",
+      "front": "Grupo vs. equipo",
+      "back": "Grupo: personas que comparten espacio o información, con trabajo y responsabilidad individuales. Equipo: personas con habilidades complementarias, comprometidas con un objetivo común y con responsabilidad mutua, que generan sinergia."
+    },
+    {
+      "id": 156,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "media",
+      "front": "Sinergia",
+      "back": "Efecto por el que el resultado del trabajo conjunto es mayor que la suma de las aportaciones individuales ('1 + 1 > 2')."
+    },
+    {
+      "id": 157,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "alta",
+      "front": "Etapas de desarrollo de un equipo (Tuckman)",
+      "back": "1) Formación (forming), 2) Tormenta (storming), 3) Normalización (norming), 4) Desempeño (performing). Después se añadió una quinta: Disolución (adjourning)."
+    },
+    {
+      "id": 158,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "alta",
+      "front": "Roles de equipo de Belbin",
+      "back": "Nueve roles: Cerebro (creativo), Investigador de recursos, Coordinador, Impulsor, Monitor evaluador, Cohesionador, Implementador, Finalizador y Especialista. Se agrupan en roles de acción, sociales y mentales. Un equipo equilibrado cubre los roles necesarios."
+    },
+    {
+      "id": 159,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "media",
+      "front": "Roles en grupos (Benne y Sheats)",
+      "back": "De tarea (ayudan a lograr el objetivo: iniciador, informador, evaluador), de mantenimiento (cuidan la cohesión: armonizador, alentador) e individuales o disfuncionales (bloqueador, dominador, buscador de atención)."
+    },
+    {
+      "id": 160,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "alta",
+      "front": "Dinámicas de grupo",
+      "back": "Fuerzas y procesos que ocurren dentro de un grupo: comunicación, liderazgo, normas, cohesión, roles, toma de decisiones y conflicto. También se llama así a las técnicas grupales (lluvia de ideas, role-playing, estudio de caso) que sirven para integrar al equipo."
+    },
+    {
+      "id": 161,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "alta",
+      "front": "Cómo fomentar la comunicación efectiva en un equipo",
+      "back": "Objetivos y roles claros, canales definidos, reuniones periódicas y breves, escucha activa, retroalimentación frecuente, transparencia en la información, y un clima de confianza donde se pueda opinar o equivocarse (seguridad psicológica). Resolver a tiempo los malentendidos."
+    },
+    {
+      "id": 162,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "alta",
+      "front": "Equipos multiculturales: retos y beneficios",
+      "back": "Retos: idioma, estilos de comunicación, percepción del tiempo, jerarquía, estereotipos y malentendidos. Beneficios: más perspectivas, creatividad e innovación, y conocimiento de distintos mercados."
+    },
+    {
+      "id": 163,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "media",
+      "front": "Dimensiones culturales de Hofstede",
+      "back": "Distancia al poder, individualismo vs. colectivismo, masculinidad vs. feminidad, evitación de la incertidumbre, orientación a largo plazo e indulgencia vs. restricción. Ayudan a entender las diferencias en equipos multiculturales."
+    },
+    {
+      "id": 164,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "media",
+      "front": "Culturas de alto y bajo contexto (Hall)",
+      "back": "Alto contexto: el mensaje se entiende por el contexto y lo implícito (ej. Japón, países árabes, Latinoamérica). Bajo contexto: se comunica de forma directa y explícita (ej. EE. UU., Alemania)."
+    },
+    {
+      "id": 165,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "alta",
+      "front": "Cómo gestionar equipos multiculturales",
+      "back": "Respetar y valorar las diferencias, comunicar con claridad (evitar jerga y modismos), acordar normas comunes, desarrollar sensibilidad intercultural, evitar estereotipos, fomentar la inclusión y aprovechar la diversidad como fortaleza."
+    },
+    {
+      "id": 166,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "alta",
+      "front": "Tácticas para trabajar en equipo",
+      "back": "Objetivos comunes y claros, roles y responsabilidades definidos, confianza y respeto, comunicación abierta, apoyo mutuo, manejo constructivo de los conflictos, decisiones compartidas, reconocimiento de logros, y evaluar y mejorar como equipo."
+    },
+    {
+      "id": 167,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "media",
+      "front": "Las 5 disfunciones de un equipo (Lencioni)",
+      "back": "1) Ausencia de confianza, 2) miedo al conflicto, 3) falta de compromiso, 4) evasión de responsabilidades, 5) desatención a los resultados."
+    },
+    {
+      "id": 168,
+      "tema": "HD 5. Trabajo en equipo",
+      "prioridad": "media",
+      "front": "Riesgos del trabajo en equipo",
+      "back": "Pensamiento de grupo (se busca el consenso sin analizar críticamente), holgazanería social (alguien reduce su esfuerzo amparado en el grupo), conflictos no resueltos, decisiones más lentas y dependencia de pocos miembros."
+    },
+    {
+      "id": 169,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "alta",
+      "front": "Planeación estratégica",
+      "back": "Proceso sistemático por el cual una organización define su rumbo a largo plazo (misión, visión, objetivos) y las estrategias y recursos para alcanzarlo, a partir del análisis de su entorno interno y externo."
+    },
+    {
+      "id": 170,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "alta",
+      "front": "Diferencias entre planeación estratégica, táctica y operativa",
+      "back": "Estratégica: largo plazo (3-5+ años), toda la organización, alta dirección; define el rumbo ('qué y por qué'). Táctica: mediano plazo (1-3 años), por áreas o departamentos, gerencia media; traduce la estrategia en planes ('cómo'). Operativa: corto plazo (hasta 1 año), actividades diarias, supervisores; ejecuta tareas específicas ('quién, cuándo y dónde')."
+    },
+    {
+      "id": 171,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "media",
+      "front": "Etapas de la administración estratégica (Fred David)",
+      "back": "Formulación (misión, visión, auditoría interna y externa, objetivos y estrategias), implementación (políticas, recursos, estructura) y evaluación (medición y control del desempeño)."
+    },
+    {
+      "id": 172,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "alta",
+      "front": "Misión",
+      "back": "Declaración de la razón de ser de la organización: qué hace, para quién, cómo y con qué valores o diferenciadores. Responde '¿quiénes somos y para qué existimos?'. Está en presente y orienta el trabajo diario."
+    },
+    {
+      "id": 173,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "media",
+      "front": "Componentes de una misión (Fred David)",
+      "back": "Clientes, productos o servicios, mercados, tecnología, preocupación por supervivencia/crecimiento/rentabilidad, filosofía, concepto de sí misma, preocupación por la imagen pública y preocupación por los empleados."
+    },
+    {
+      "id": 174,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "alta",
+      "front": "Visión",
+      "back": "Imagen del futuro deseado de la organización a largo plazo. Responde '¿qué queremos llegar a ser?'. Debe ser inspiradora, clara, breve, ambiciosa pero realista, y compartida por la organización."
+    },
+    {
+      "id": 175,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "alta",
+      "front": "Misión vs. visión (y valores)",
+      "back": "Misión: propósito actual, el 'para qué existimos'. Visión: aspiración a futuro, 'a dónde queremos llegar'. Los valores son los principios que guían el comportamiento para cumplir ambas."
+    },
+    {
+      "id": 176,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "alta",
+      "front": "Análisis FODA",
+      "back": "Herramienta de diagnóstico estratégico. Factores internos (controlables): Fortalezas y Debilidades. Factores externos (no controlables): Oportunidades y Amenazas."
+    },
+    {
+      "id": 177,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "alta",
+      "front": "FODA: ejemplos de cada componente",
+      "back": "Fortalezas: ventajas internas (ej. equipo capacitado). Debilidades: limitaciones internas (ej. procesos lentos). Oportunidades: factores externos favorables (ej. un mercado en crecimiento). Amenazas: factores externos desfavorables (ej. nuevos competidores o una crisis económica)."
+    },
+    {
+      "id": 178,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "media",
+      "front": "Matriz FODA: tipos de estrategias",
+      "back": "FO: usar fortalezas para aprovechar oportunidades (ofensivas o de crecimiento). DO: superar debilidades aprovechando oportunidades (reorientación). FA: usar fortalezas para enfrentar amenazas (defensivas). DA: reducir debilidades y evitar amenazas (supervivencia)."
+    },
+    {
+      "id": 179,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "media",
+      "front": "PESTEL y cinco fuerzas de Porter",
+      "back": "PESTEL analiza el entorno externo: Político, Económico, Social, Tecnológico, Ecológico y Legal. Cinco fuerzas de Porter: rivalidad entre competidores, amenaza de nuevos entrantes, amenaza de sustitutos, poder de negociación de proveedores y poder de negociación de clientes."
+    },
+    {
+      "id": 180,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "alta",
+      "front": "Objetivos SMART",
+      "back": "Específico (Specific), Medible (Measurable), Alcanzable (Achievable), Relevante (Relevant) y con Tiempo definido (Time-bound)."
+    },
+    {
+      "id": 181,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "alta",
+      "front": "Ejemplo de objetivo SMART vs. uno que no lo es",
+      "back": "No SMART: 'Mejorar las ventas'. SMART: 'Aumentar 15% las ventas en línea en los próximos 6 meses, mediante campañas digitales a cargo del área de marketing'."
+    },
+    {
+      "id": 182,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "alta",
+      "front": "KPI (indicador clave de desempeño)",
+      "back": "Métrica cuantificable que muestra qué tan bien se avanza hacia un objetivo estratégico. Debe estar alineada a un objetivo, ser medible, tener una meta, un responsable y una periodicidad de medición."
+    },
+    {
+      "id": 183,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "media",
+      "front": "Tipos de indicadores",
+      "back": "De resultado (rezagados o lagging: miden el logro final, ej. utilidades) y de proceso o guía (adelantados o leading: anticipan resultados, ej. visitas a clientes). También se clasifican en eficiencia (uso de recursos), eficacia (cumplimiento de objetivos) y calidad."
+    },
+    {
+      "id": 184,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "media",
+      "front": "Ejemplos de KPIs",
+      "back": "Ventas, margen de utilidad, ROI, costo de adquisición de cliente, satisfacción del cliente (NPS), rotación de personal, tiempo de entrega y porcentaje de defectos."
+    },
+    {
+      "id": 185,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "media",
+      "front": "Cuadro de Mando Integral (Balanced Scorecard)",
+      "back": "Kaplan y Norton: sistema que vincula la estrategia con indicadores desde cuatro perspectivas: financiera, clientes, procesos internos, y aprendizaje y crecimiento."
+    },
+    {
+      "id": 186,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "media",
+      "front": "Eficiencia, eficacia y efectividad",
+      "back": "Eficiencia: hacer las cosas bien usando el mínimo de recursos. Eficacia: lograr los objetivos. Efectividad: combina ambas (lograr los objetivos con buen uso de los recursos)."
+    },
+    {
+      "id": 187,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "alta",
+      "front": "Pasos de la planeación estratégica",
+      "back": "1) Diagnóstico interno y externo (FODA), 2) definir misión, visión y valores, 3) establecer objetivos SMART, 4) formular estrategias, 5) elaborar planes de acción con responsables, tiempos y recursos, 6) definir KPIs, 7) implementar, 8) evaluar y retroalimentar."
+    },
+    {
+      "id": 188,
+      "tema": "HD 6. Planeación estratégica",
+      "prioridad": "media",
+      "front": "Estrategias genéricas de Porter",
+      "back": "Liderazgo en costos, diferenciación y enfoque (segmentación)."
+    },
+    {
+      "id": 189,
+      "tema": "HD 7. Bibliografía",
+      "prioridad": "media",
+      "front": "Covey, S. R.: 'El liderazgo centrado en principios'",
+      "back": "Propone liderar con principios universales (integridad, justicia, honestidad) en cuatro niveles: personal, interpersonal, gerencial y organizacional. Se relaciona con el bloque de Liderazgo."
+    },
+    {
+      "id": 190,
+      "tema": "HD 7. Bibliografía",
+      "prioridad": "media",
+      "front": "Fred R. David: 'Conceptos de Administración Estratégica'",
+      "back": "Base del bloque de Planeación estratégica: misión, visión, auditoría interna y externa, FODA, objetivos y estrategias; y las etapas de formulación, implementación y evaluación."
+    },
+    {
+      "id": 191,
+      "tema": "HD 7. Bibliografía",
+      "prioridad": "media",
+      "front": "De Bono, E.: 'Conflictos. Cómo resolverlos de la mejor manera'",
+      "back": "Aborda la resolución de conflictos con pensamiento creativo y constructivo. Se relaciona con la resolución de conflictos en equipos y con la negociación."
+    },
+    {
+      "id": 192,
+      "tema": "HD 7. Bibliografía",
+      "prioridad": "media",
+      "front": "Bruce y Pepitone: 'Tenga a su equipo motivado'",
+      "back": "Trata de cómo motivar y empoderar a los equipos. Se relaciona con los bloques de Liderazgo (motivación) y Trabajo en equipo."
+    },
+    {
+      "id": 193,
+      "tema": "HD 7. Bibliografía",
+      "prioridad": "media",
+      "front": "Kerzner, H.: 'Project Management. A Systems Approach to Planning, Scheduling and Controlling'",
+      "back": "Obra de gestión de proyectos: planeación, programación y control. Se relaciona con la planeación y la definición de objetivos e indicadores."
     }
   ]
 }
